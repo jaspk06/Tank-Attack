@@ -1,0 +1,7 @@
+Look and Feel Code
+try {
+      UIManager.setLookAndFeel("com.jtattoo.plaf.hifi.HiFiLookAndFeel");
+    }
+    catch (Exception ex) {
+      ex.printStackTrace();
+    }
